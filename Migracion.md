@@ -1,6 +1,6 @@
 # ExamenUD3_KoraymaCalero
 
-## Migracion de nuestra web a un hostig
+## Migración de nuestra web a un hostig
 
 ![AWARDSAPACE](/img/awardspace.png)
 
@@ -14,6 +14,9 @@
 Tras hacer a configuración nos descargaremos un fichero el cual tendra nuestra informacion de inicio de sesión el cual importaremos a nuestro cliente <u>FileZilla</u>
 
 * 4. Una vez hayamos accedido desde FileZilla lo que haremos será subir todo el contenido de nuetrs web a hostear en la raiz, **No en una carpeta si no los ficheros** es decir si ca configuración de neusro *Worpress* esta en la carpeta worpress pondremos todos los fichero y carpetas quee estan dentro de el.
+
+Lo indicamos en la siguiente imagen:  
+![AWARDSAPACE](/img/ejemplo.png)
 
 * 5. Crearemos una base de datos destro de nuestro hosting donde importaremos la base de datos exportada de nuestro localhost
   
