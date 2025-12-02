@@ -2,7 +2,7 @@
 
 ## Migracion de nuestra web a un hostig
 
-
+![AWARDSAPACE](/img/awardspace.png)
 
 ### Explicamos paso a paso como hacerlo 
 
