@@ -1,2 +1,0 @@
-# ExamenUD3_KoraymaCalero
-

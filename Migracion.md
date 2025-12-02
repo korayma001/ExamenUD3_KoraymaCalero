@@ -1,8 +1,10 @@
-# Migracion de nuestra web a un hostig
+# ExamenUD3_KoraymaCalero
+
+## Migracion de nuestra web a un hostig
 
 
 
-## Explicamos paso a paso como hacerlo 
+### Explicamos paso a paso como hacerlo 
 
 * 1. Primero buscaremos nuestro hosting en nuestro caso [www.awardspace.com](www.awardspace.com) en el cual iniciaremos sesion.
 
